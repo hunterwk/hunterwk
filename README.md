@@ -1,9 +1,11 @@
-Hello my name is Hunter Kantner!
+# Hello,
+### my name is Hunter Kantner!
 
-I am full stack web dev, that really enjoys building react components.
-I completed the UCSD full stack web development bootcamp in the fall of 2020 and am looking for full time employment!
+#### I am full stack web dev, that really enjoys building react components.
 
-Current Projects:
+I completed the UCSD full stack web development bootcamp in the fall of 2020 and am looking for full time remote employment!
+
+##### Current Projects:
 1. Corgihunter.com
     * A website that utilizes pet finder's api to find corgi's all over the US that are available for adoption.
 1. hunterwk.dev
