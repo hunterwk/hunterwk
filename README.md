@@ -5,5 +5,8 @@ Open to all opportunities!
 
 ##### Personal Projects:
 TIL
+
 corgihunter
+
 hunterwk.dev
+
