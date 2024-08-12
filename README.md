@@ -5,8 +5,9 @@ Open to all opportunities!
 
 ##### Personal Projects:
 TIL
+-source compiler and data analysis
 
 corgihunter
 
 hunterwk.dev
-
+-mobile based resume page, will track certifications over multiple applications
